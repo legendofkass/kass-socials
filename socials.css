@@ -1,0 +1,174 @@
+    body {
+        background-image: url(images/Valentine-Day-Wallpaper-Pastel-Marble-Pink.webp);
+}
+    .navbar navbar-expand-lg navbar-dark bg-dark {
+        background-color: pink;
+        
+       
+}
+    .navbar-brand {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    
+}
+    .nav-item {
+        margin-top: auto;
+        margin-right: 20px;
+        font-size: 15px;
+        font-family: 'Poiret One', cursive;
+        
+        
+        
+}
+
+    
+
+    h2 {
+        font-size: 50px;
+        color: pink;   
+        font-family: 'Poiret One', cursive;
+        
+}
+
+    
+    .logo {
+        height: 60px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+       
+}
+
+    .logo-head {
+        color: pink;   
+        font-family: 'Sacramento', cursive;
+        font-size: 40px;
+        margin-bottom: 0px;
+        margin-top: 10px;    
+        
+}
+    .img-head {
+    
+        height:400px;
+        border-radius: 50%;
+        margin-bottom: 70px;
+        margin-top: 0px;
+}
+
+
+    .bg-img {
+        margin-top: 20px;
+        margin-bottom: 0px;
+        
+}
+
+    .cosplay {
+        height: 250px;
+        border-radius: 30%;
+        margin-top: 20px;
+}
+
+    .cargram {
+    
+        height: 250px;
+        border-radius: 30%;
+        margin-top: 20px;
+}
+
+
+    .btn {
+        margin-top: 20px;
+        background-color: pink;
+        border-color: pink;
+        color: #20262E;
+        
+    
+}
+
+    .makima {
+    
+        height: 250px;
+        margin-bottom: 20px;
+        border-radius: 30%
+}
+    .cooking {
+    
+        height: 200px;
+        width: 400px;
+        border-radius: 30%;
+        margin-bottom: 20px;
+}
+
+    .donate {
+        margin-top: 50px;
+}
+
+    .wishlist {
+        height: 100px;
+        margin-bottom: 40px;
+        margin-top: 0px;
+    
+}
+    
+    .discordlogo {
+        width: 100px;
+        margin-top:  0px;
+}
+
+    .fw-normal {
+        font-size: 25px;
+         font-family: 'Poiret One', cursive;
+         margin-top: 50px;   
+       
+}
+
+    .lead {
+        font-size: 25px;
+        font-family: 'Poiret One', cursive;
+ }
+    
+    .donate { 
+        font-size: 15px;
+        font-family: 'Poiret One', cursive;
+        
+}
+    
+    p {
+        color: pink;
+        margin-top: 20px;
+        font-size: 10px;
+}
+  
+
+    h1 {
+        color: pink;   
+        font-family: 'Sacramento', cursive;
+        font-size: 100px;
+        font-weight: 500;
+    
+}
+
+.copyright {
+        text-align: center;
+        color: grey;
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 18px;
+
+}
+    
+
+
+
+
+/*
+ * Extra utilities
+ */
+
+    .flex-equal > * {
+        flex: 1;
+}
+        @media (min-width: 768px) {
+    .flex-md-equal > * {
+        flex: 1;
+  }
+}
+
